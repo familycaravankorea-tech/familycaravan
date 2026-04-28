@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chomini8585-dot.github.io/fcpfamilycaravan/sitemap.xml
+Sitemap: https://familycaravankorea-tech.github.io/familycaravan/sitemap.xml
